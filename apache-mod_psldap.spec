@@ -9,7 +9,7 @@ Version:	0.94
 Release: 	%mkrel 4
 Group:		System/Servers
 License:	GPL
-URL:		http://sourceforge.net/projects/mod-psldap/
+URL:		https://sourceforge.net/projects/mod-psldap/
 Source0:	http://garr.dl.sourceforge.net/project/mod-psldap/mod-psldap/mod-psldap%20%{version}/mod_psldap-%{version}.tar.gz
 Source1:	%{mod_conf}
 Requires(pre): rpm-helper
