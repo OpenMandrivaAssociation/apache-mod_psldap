@@ -6,7 +6,7 @@
 Summary:	A LDAP authentication module for apache
 Name:		apache-%{mod_name}
 Version:	0.94
-Release: 	%mkrel 4
+Release: 	5
 Group:		System/Servers
 License:	GPL
 URL:		https://sourceforge.net/projects/mod-psldap/
